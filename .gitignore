@@ -5,10 +5,9 @@ server/data/
 *.db-wal
 *.db-shm
 *.bak
-.env
-.env.local
 .DS_Store
 
 # Personal deployment scripts (contain keys/credentials — kept local)
 deploy-pi.sh
 update-hermes.sh
+config.bat
